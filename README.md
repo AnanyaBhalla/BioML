@@ -32,7 +32,7 @@
 | *BioGPT: generative pre-trained transformer for biomedical text generation and mining* | Luo, R. et al. | 2022 | https://academic.oup.com/bib/article-abstract/23/6/bbac409/6713511?redirectedFrom=fulltext&login=false|
 | *Autonomous chemical research with large language models* | Boiko, D. et al. | 2023 | https://www.nature.com/articles/s41586-023-06792-0 |
 | *Protein Discovery with Discrete Walk-Jump Sampling* | Frey, NC. et al. | 2023 | https://arxiv.org/abs/2306.12360 |
-| *xTrimoGene: An Efficient and Scalable Representation Learner for Single-Cell RNA-Seq Data* | Gong, J. et al. | 2023 | https://arxiv.org/abs/2306.12360](https://arxiv.org/abs/2311.15156 |
+| *xTrimoGene: An Efficient and Scalable Representation Learner for Single-Cell RNA-Seq Data* | Gong, J. et al. | 2023 | https://arxiv.org/abs/2311.15156 |
 | *Large language models encode clinical knowledge* | Singhal, K. et al. | 2023 | https://www.nature.com/articles/s41586-023-06291-2 |
 
 
@@ -62,9 +62,6 @@ All contributions from the Bio x ML communities are welcome! Please follow these
 1. **Fork the Repository**: Fork the repository to your account.
 2. **Add Resources**: Add resources/papers/links making sure to follow the existing table formats.
 3. **Create a Pull Request**: Submit a pull request with a brief description of additions/changes.
-4. **Review Process**: We will review and merge your submission.
 
+We will review and merge your submission.
 
-## License
-
-This repository is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
