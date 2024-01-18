@@ -21,6 +21,7 @@
 | *Single-cell best practices* | Single-cell genomics | https://www.sc-best-practices.org/preamble.html |
 | *Bio-image Analysis Notebooks* | Image Analysis with Python | https://haesleinhuepf.github.io/BioImageAnalysisNotebooks/intro.html |
 | *Bioimaging and Bioimage analysis* | Quantitative image analysis | https://www.bioimagingguide.org/welcome.html |
+| *Python Data Science Handbook* | Python | [https://www.bioimagingguide.org/welcome.html](https://jakevdp.github.io/PythonDataScienceHandbook/) |
 
 
 ## Recent Papers 
