@@ -47,14 +47,6 @@
 | *Attention Is All You Need* | Vaswani, A. et al. | 2017 | https://arxiv.org/abs/1706.03762 |
 | *ImageNet classification with deep convolutional neural networks.* | Krizhevsky, A. et al. | 2012 | https://proceedings.neurips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf |
 
-## Upcoming Workshops and Webinars (2024)
-
-| Title | Host | Date | Link |
-|-------|---------|------|------|
-| *Fundamentals of Deep Learning* | NVIDIA | 17-Jan-2024 | https://events.nvidia.com/fundamentalsofdl170124 |
-| *Fundamentals of Accelerated Computing with CUDA Python* | NVIDIA | 24-Jan-2024 | https://events.nvidia.com/fundamentalsofaccelerated240124 |
-| *Introduction to Computational biology, ML and AI* | Royal Society of Biology | 14-Feb-2024 | https://www.rsb.org.uk/events?event=artificialintelligenceandmachinelearningfebruary2024
-
 
 ## Contribution Guidelines
 
