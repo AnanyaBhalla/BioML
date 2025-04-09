@@ -16,6 +16,7 @@
 
 | Title | Author(s) | Year | Link |
 |-------|-----------|------|------|
+| *scGPT-spatial: Continual Pretraining of Single-Cell Foundation Model for Spatial Transcriptomics* | Chloe, W. et al. | 2025 | https://www.biorxiv.org/content/10.1101/2025.02.05.636714v1|
 | *Segment anything in medical images* | Jun, M. et al. | 2024 | https://www.nature.com/articles/s41467-024-44824-z |
 | *scGPT: Towards Building a Foundation Model for Single-Cell Multi-omics Using Generative AI* | Cui, H. et al. | 2023 | https://www.biorxiv.org/content/10.1101/2023.04.30.538439v2 |
 | *Universal Cell Embeddings: A Foundation Model for Cell Biology* | Rosen, Y. et al. | 2023 | https://www.biorxiv.org/content/10.1101/2023.11.28.568918v1 |
