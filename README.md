@@ -29,8 +29,8 @@
 
 | Title | Author(s) | Year | Link |
 |-------|-----------|------|------|
-| *Highly accurate protein structure prediction with AlphaFold* | Jumper J. et al. | 2021 | https://www.nature.com/articles/s41586-021-03819-2 |
-| *BioBERT: a pre-trained biomedical language representation model for biomedical text mining* | Lee J. et al. | 2019 | https://academic.oup.com/bioinformatics/article/36/4/1234/5566506 |
+| *Highly accurate protein structure prediction with AlphaFold* | Jumper, J. et al. | 2021 | https://www.nature.com/articles/s41586-021-03819-2 |
+| *BioBERT: a pre-trained biomedical language representation model for biomedical text mining* | Lee, J. et al. | 2019 | https://academic.oup.com/bioinformatics/article/36/4/1234/5566506 |
 | *From Louvain to Leiden: guaranteeing well-connected communities* | Traag, VA. et al. | 2019 | https://www.nature.com/articles/s41598-019-41695-z |
 | *Attention Is All You Need* | Vaswani, A. et al. | 2017 | https://arxiv.org/abs/1706.03762 |
 | *ImageNet classification with deep convolutional neural networks.* | Krizhevsky, A. et al. | 2012 | https://proceedings.neurips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf |
@@ -40,7 +40,8 @@
 
 | Title | Author(s) | Year | Link |
 |-------|-----------|------|------|
-| *The age of foundation models* | Jana L. et al. | 2025 | https://www.nature.com/articles/s41571-024-00941-8 |
+| *The age of foundation models* | Jana, L. et al. | 2025 | https://www.nature.com/articles/s41571-024-00941-8 |
+| *The tumour histopathology “glossary” for AI developers* | Soham, M. et al| 2025 | https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012708|
 | *Ten quick tips for machine learning in computational biology* | Davide, C. | 2017 | https://biodatamining.biomedcentral.com/articles/10.1186/s13040-017-0155-3 |
 
 
