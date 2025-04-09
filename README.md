@@ -41,6 +41,7 @@
 | Title | Author(s) | Year | Link |
 |-------|-----------|------|------|
 | *The age of foundation models* | Jana L. et al. | 2025 | https://www.nature.com/articles/s41571-024-00941-8 |
+| *Ten quick tips for machine learning in computational biology* | Davide, C. | 2017 | https://biodatamining.biomedcentral.com/articles/10.1186/s13040-017-0155-3 |
 
 
 ## Resources
@@ -55,6 +56,13 @@
 | *Bio-image Analysis Notebooks* | Image Analysis with Python | https://haesleinhuepf.github.io/BioImageAnalysisNotebooks/intro.html |
 | *Bioimaging and Bioimage analysis* | Quantitative image analysis | https://www.bioimagingguide.org/welcome.html |
 | *Python Data Science Handbook* | Python | [https://www.bioimagingguide.org/welcome.html](https://jakevdp.github.io/PythonDataScienceHandbook/) |
+
+
+## Technical Blogs
+| Title | Area | Link |
+|-------|----------|------|
+| *Foundation Models: Explained* | Foundation Models | https://humanloop.com/blog/foundation-models |
+| *Accelerating scientific breakthroughs with an AI co-scientist* | Agents for Science |https://research.google/blog/accelerating-scientific-breakthroughs-with-an-ai-co-scientist/ |
 
 
 ## Contribution Guidelines
