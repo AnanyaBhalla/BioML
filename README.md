@@ -18,11 +18,11 @@
 | *Segment anything in medical images* | Jun, M. et al. | 2024 | https://www.nature.com/articles/s41467-024-44824-z |
 | *scGPT: Towards Building a Foundation Model for Single-Cell Multi-omics Using Generative AI* | Cui, H. et al. | 2023 | https://www.biorxiv.org/content/10.1101/2023.04.30.538439v2 |
 | *Universal Cell Embeddings: A Foundation Model for Cell Biology* | Rosen, Y. et al. | 2023 | https://www.biorxiv.org/content/10.1101/2023.11.28.568918v1 |
-| *BioGPT: generative pre-trained transformer for biomedical text generation and mining* | Luo, R. et al. | 2022 | https://academic.oup.com/bib/article-abstract/23/6/bbac409/6713511?redirectedFrom=fulltext&login=false|
 | *Autonomous chemical research with large language models* | Boiko, D. et al. | 2023 | https://www.nature.com/articles/s41586-023-06792-0 |
 | *Protein Discovery with Discrete Walk-Jump Sampling* | Frey, NC. et al. | 2023 | https://arxiv.org/abs/2306.12360 |
 | *xTrimoGene: An Efficient and Scalable Representation Learner for Single-Cell RNA-Seq Data* | Gong, J. et al. | 2023 | https://arxiv.org/abs/2311.15156 |
 | *Large language models encode clinical knowledge* | Singhal, K. et al. | 2023 | https://www.nature.com/articles/s41586-023-06291-2 |
+| *BioGPT: generative pre-trained transformer for biomedical text generation and mining* | Luo, R. et al. | 2022 | https://academic.oup.com/bib/article-abstract/23/6/bbac409/6713511?redirectedFrom=fulltext&login=false|
 
 
 ## Seminal Papers 
@@ -39,6 +39,7 @@
 ## Reviews
 
 | Title | Author(s) | Year | Link |
+|-------|-----------|------|------|
 | *The age of foundation models| Jana L. et al. | 2024 | https://www.nature.com/articles/s41571-024-00941-8 |
 
 
