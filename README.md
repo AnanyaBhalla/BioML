@@ -40,7 +40,7 @@
 
 | Title | Author(s) | Year | Link |
 |-------|-----------|------|------|
-| *The age of foundation models*| Jana L. et al. | 2024 | https://www.nature.com/articles/s41571-024-00941-8 |
+| *The age of foundation models* | Jana L. et al. | 2025 | https://www.nature.com/articles/s41571-024-00941-8 |
 
 
 ## Resources
