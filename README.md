@@ -1,33 +1,21 @@
 # BioML
 
- Collection of resources to encourage interdisciplinary research across biology and ML/AI researchers.
+ Collection of resources and research papers to encourage interdisciplinary research across biology and ML/AI researchers.
 
 ## Contents
-- [Resources](#resources)
 - [Recent Papers](#recent-papers)
 - [Seminal Papers](#seminal-papers)
-- [Upcoming Workshops and Webinars (2024)](#upcoming-workshops-and-webinars-2024)
+- [Reviews](#reviews)
+- [General BioML Resources](#resources)
+
 - [Contribution Guidelines](#contribution-guidelines)
-
-
-## Resources
-
-| Title | Area | Link |
-|-------|----------|------|
-| *The Turing Way - Handbook for reproducible, ethical and collaborative data science* | Data Science | https://the-turing-way.netlify.app/index.html |
-| *fast.ai - Making neural nets uncool again* | Deep Learning | https://www.fast.ai/ |
-| *MIT-Computational Systems Biology: Deep Learning in the Life Sciences* | ML foundations for life sciences and genomics research | https://mit6874.github.io/ |
-| *Deep Learning* | Deep Learning for research | https://www.deeplearningbook.org/ |
-| *Single-cell best practices* | Single-cell genomics | https://www.sc-best-practices.org/preamble.html |
-| *Bio-image Analysis Notebooks* | Image Analysis with Python | https://haesleinhuepf.github.io/BioImageAnalysisNotebooks/intro.html |
-| *Bioimaging and Bioimage analysis* | Quantitative image analysis | https://www.bioimagingguide.org/welcome.html |
-| *Python Data Science Handbook* | Python | [https://www.bioimagingguide.org/welcome.html](https://jakevdp.github.io/PythonDataScienceHandbook/) |
 
 
 ## Recent Papers 
 
 | Title | Author(s) | Year | Link |
 |-------|-----------|------|------|
+| *Segment anything in medical images* | Jun, M. et al. | 2024 | https://www.nature.com/articles/s41467-024-44824-z |
 | *scGPT: Towards Building a Foundation Model for Single-Cell Multi-omics Using Generative AI* | Cui, H. et al. | 2023 | https://www.biorxiv.org/content/10.1101/2023.04.30.538439v2 |
 | *Universal Cell Embeddings: A Foundation Model for Cell Biology* | Rosen, Y. et al. | 2023 | https://www.biorxiv.org/content/10.1101/2023.11.28.568918v1 |
 | *BioGPT: generative pre-trained transformer for biomedical text generation and mining* | Luo, R. et al. | 2022 | https://academic.oup.com/bib/article-abstract/23/6/bbac409/6713511?redirectedFrom=fulltext&login=false|
@@ -46,6 +34,26 @@
 | *From Louvain to Leiden: guaranteeing well-connected communities* | Traag, VA. et al. | 2019 | https://www.nature.com/articles/s41598-019-41695-z |
 | *Attention Is All You Need* | Vaswani, A. et al. | 2017 | https://arxiv.org/abs/1706.03762 |
 | *ImageNet classification with deep convolutional neural networks.* | Krizhevsky, A. et al. | 2012 | https://proceedings.neurips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf |
+
+
+## Reviews
+
+| Title | Author(s) | Year | Link |
+| *The age of foundation models| Jana L. et al. | 2024 | https://www.nature.com/articles/s41571-024-00941-8 |
+
+
+## Resources
+
+| Title | Area | Link |
+|-------|----------|------|
+| *The Turing Way - Handbook for reproducible, ethical and collaborative data science* | Data Science | https://the-turing-way.netlify.app/index.html |
+| *fast.ai - Making neural nets uncool again* | Deep Learning | https://www.fast.ai/ |
+| *MIT-Computational Systems Biology: Deep Learning in the Life Sciences* | ML foundations for life sciences and genomics research | https://mit6874.github.io/ |
+| *Deep Learning* | Deep Learning for research | https://www.deeplearningbook.org/ |
+| *Single-cell best practices* | Single-cell genomics | https://www.sc-best-practices.org/preamble.html |
+| *Bio-image Analysis Notebooks* | Image Analysis with Python | https://haesleinhuepf.github.io/BioImageAnalysisNotebooks/intro.html |
+| *Bioimaging and Bioimage analysis* | Quantitative image analysis | https://www.bioimagingguide.org/welcome.html |
+| *Python Data Science Handbook* | Python | [https://www.bioimagingguide.org/welcome.html](https://jakevdp.github.io/PythonDataScienceHandbook/) |
 
 
 ## Contribution Guidelines
