@@ -7,6 +7,7 @@
 - [Seminal Papers](#seminal-papers)
 - [Reviews](#reviews)
 - [General BioML Resources](#resources)
+- [Technical Blogs](#technical-blogs)
 
 - [Contribution Guidelines](#contribution-guidelines)
 
